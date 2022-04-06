@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "nat": "AU",
+      "gender": "male",
+      "phone": "07-0961-9151",
+      "dob": {
+        "date": "1997-09-27T23:52:30.102Z",
+        "age": 25
+      },
+      "name": {
+        "last": "Wright",
+        "title": "Mr",
+        "first": "Jeffrey"
+      },
+      "registered": {
+        "date": "2018-03-29T09:18:38.196Z",
+        "age": 4
+      },
+      "location": {
+        "country": "Australia",
+        "city": "Sydney",
+        "street": {
+          "number": 8037,
+          "name": "Railroad St"
+        },
+        "timezone": {
+          "offset": "-6:00",
+          "description": "Central Time (US & Canada), Mexico City"
+        },
+        "postcode": 3706,
+        "coordinates": {
+          "latitude": "-86.4486",
+          "longitude": "-118.0884"
+        },
+        "state": "Australian Capital Territory"
+      },
+      "id": {
+        "name": "TFN",
+        "value": "202720794"
+      },
+      "login": {
+        "sha1": "113cd9e63ff0760d8b1d324e1366a19fdf6326b9",
+        "password": "melons",
+        "salt": "VTOQw30T",
+        "sha256": "99fd1e39744b2b910bce5262832c33f3cb70a916b1778145f16ef07f285144ea",
+        "uuid": "7f3cac01-cbaa-45ef-b93f-8fe0b1e92f29",
+        "username": "bluezebra569",
+        "md5": "b16ebc60c7b68c9b6688a44e1b57d032"
+      },
+      "cell": "0463-194-798",
+      "email": "jeffrey.wright@example.com",
+      "picture": {
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/1.jpg",
+        "large": "https://randomuser.me/api/portraits/men/1.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/1.jpg"
+      }
+    }
+  ],
+  "info": {
+    "seed": "5241819bc5bdc838",
+    "page": 1,
+    "results": 1,
+    "version": "1.3"
+  }
+}
