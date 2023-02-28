@@ -16,6 +16,9 @@ import org.springframework.web.bind.annotation.RestController;
 @AllArgsConstructor
 @RestController
 public class RandomUserController {
+public_key
+xxxx
+    
 
     private final RandomUserService randomUserService;
 
